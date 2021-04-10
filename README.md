@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nvtrang91
-- 👀 I’m interested in materials and data science
+- 👋 Hi, I’m Trang
+- 👀 I’m interested in Materials Science and Data Science and cool things
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on cool things
 - 📫 Reach me at nvtrang91@gmail.com
